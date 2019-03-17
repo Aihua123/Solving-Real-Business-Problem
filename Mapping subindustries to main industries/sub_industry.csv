@@ -1,0 +1,270 @@
+sub_industry
+[0000] Domestic and Residential
+[00] Domestic and Residential
+[01] Agricultural Production Crops
+[0100] Agricultural Production Crops
+[02] Agriculture Production Livestock and Animal Specialties
+[0200] Agriculture Production Livestock and Animal Specialties
+[7] Agriculture Services
+[07]  Agricultural Services
+[0700] Agricultural Services
+[8] Forestry
+[08] Forestry
+[0800] Forestry
+[9] Fishing
+"[09] Fishing, Hunting, and Trapping"
+"[0900] Fishing, Hunting, and Trapping"
+[10] Metal Mining
+[12] Coal/Lignite Mining
+[12] Coal Mining
+[13] Oil and Gas Extraction
+"[14] Mining and Quarrying Of Nonmetallic Minerals, Except Fuels"
+[14] Non Metal Mining
+[15] General Building Contractors
+[15] Building Construction General Contractors and Operative Builders
+[16] Heavy Construction Contractors
+[16] Heavy Construction Other Than Building Construction Contractors
+[17] Construction Special Trade Contractors
+[20] Food and Kindred Products
+[21] Tobacco Products
+[21] Tobacco Manufacturing
+[22] Textile Mill Products
+[23] Apparel and Other Finished Products Made From Fabrics & Similar Materials
+"[24] Lumber and Wood Products, Except Furniture"
+[24] Lumber and Wood Products
+[25] Furniture and Fixtures
+[26] Paper And Allied Products
+[26]  Paper and Allied Products
+[27] Printing and Publishing
+"[27] Printing, Publishing, and Allied Industries"
+[28] Chemicals and Allied Products
+[29] Petroleum Refining and Related Industries
+[29] Petroleum and Coal Products
+[30] Rubber/Misc. Plastic Products
+[30] Rubber and Miscellaneous Plastics Products
+[31] Leather and Leather Products
+"[32] Stone, Clay, Glass, and Concrete Products"
+[33] Primary Metal Industries
+"[34] Fabricated Metal Products, Except Machinery and Transportation Equipment"
+[34] Fabricated Metal Products
+[35] Industrial and Commercial Machinery and Computer Equipment
+[35] Industrial and Commercial Machinery and Computer Equip
+[36] Electrical Equipment and Components
+"[36] Electronic and Other Electrical Equipment and Components, Except Computer Equipment"
+[37] Transportation Equipment
+"[38] Measuring, Analyzing, and Controlling Instruments; Photographic, Medical and Optical Goods; Watches and Clocks"
+"[38] Measurement Analyzing, Control Instr and Related Prod."
+[39] Miscellaneous Manufacturing Industries
+[39] Misc. Manufacturing Industries
+[40] Railroad Transportation
+"[41] Local, Suburban Transit & Interurban Hwy Pass Transit"
+[41] Local and Suburban Transit and Interurban Highway Passenger Transportation
+[42] Motor Freight Transportation
+[42] Motor Freight Transportation and Warehousing
+[43] United States Postal Service
+[44] Water Transportation
+[45] Transportation By Air
+"[46] Pipelines, Except Natural Gas"
+[47] Transportation Services
+[48] Communications
+"[49] Electric, Gas & Sanitary Services"
+"[49] Electric, Gas, and Sanitary Services"
+[50] Durable Goods
+[50] Wholesale Trade-durable Goods
+[51] Wholesale Trade-non-durable Goods
+"[52] Building Materials, Hardware, Garden Supplies and Mobile Home Dealers"
+"[52] Building Materials, Hardware, Garden Supply, and Mobile Home Dealers"
+[53] General Merchandise Stores
+[54] Food Stores
+[55] Automobile Dealers & Gasoline Service Stations
+[55] Automotive Dealers and Gasoline Service Stations
+[56] Apparel & Accessory Stores
+[56] Apparel and Accessory Stores
+"[57] Home Furniture, Furnishings, and Equipment Stores"
+"[57] Home Furniture, Furnishings and Equipment Stores"
+[58] Eating and Drinking Places
+[58] Eating & Drinking Places
+[59] Miscellaneous Retail
+[60] Depository Institutions
+[61] Non-depository Credit Institutions
+"[62] Security and Commodity Brokers, Dealers, Exchanges, and Services"
+[63] Insurance Carriers
+"[64] Insurance Agents, Brokers, and Service"
+[65] Real Estate
+[67] Holding and Other Investment Offices
+"[70] Hotels, Rooming Houses, Camps and Other Lodging Places"
+"[70] Hotels, Rooming Houses, Camps, and Other Lodging Places"
+[72] Personal Services
+[73]  Business Services
+[75] Automotive Repair Services & Parking
+"[75] Automotive Repair, Services, and Parking"
+[76] Miscellaneous Repair Services
+[78] Motion Pictures
+[79] Amusement and Recreation Services
+[80] Health Services
+[81] Legal Services
+[82] Educational Services
+[83] Social Services
+"[84] Museums, Art Galleries, and Botanical and Zoological Gardens"
+"[84] Museums, Art Galleries & Botanical & Zoological Gardens"
+[86] Membership Organizations
+"[87] Engineering, Accounting, Research, Management, and Related Services"
+"[87] Engineering, Accounting, Research Management & Related Services"
+[88] Private Households
+[89] Miscellaneous Services
+"[91] Executive, Legislative and General"
+"[91] Executive, Legislative, and General Government, Except Finance"
+"[92] Justice, Public Order and Safety"
+"[92] Justice, Public Order, and Safety"
+"[93] Finance, Taxation and Monetary Policy"
+"[93] Public Finance, Taxation, and Monetary Policy"
+[94] Administration Of Human Resource Programs
+[95] Administration Of Environmental Quality and Housing Programs
+[96] Administration Of Economic Programs
+[97] National Security and International Affairs
+[99] Nonclassifiable Establishments
+[1000] Metal Mining
+[1200] Coal/Lignite Mining
+[1300] Oil and Gas Extraction
+[1311] Crude Petroleum and Natural Gas
+[1321] Natural Gas Liquids
+[1381] Drilling Oil and Gas Wells
+[1382] Oil and Gas Exploration Services
+"[1389] Oil and Gas Field Services, n.e.c."
+"[1400] Mining and Quarrying Of Nonmetallic Minerals, Exc. Fuels"
+[1500] Building Construction General Contractors and Operative Builders
+[1600] Heavy Construction Other Than Building Construction Contractors
+[1700] Construction Special Trade Contractors
+[2000] Food and Kindred Products
+[2100] Tobacco Products
+[2200] Textile Mill Products
+[2300] Apparel and Other Finished Products Made From Fabrics & Similar Materials
+"[2400] Lumber and Wood Products, Except Furniture"
+[2500] Furniture and Fixtures
+[2600] Paper and Allied Products
+"[2700] Printing, Publishing, and Allied Industries"
+[2800] Chemicals and Allied Products
+[2834] Pharmaceutical Preparations
+[2900] Petroleum Refining and Related Industries
+[3000] Rubber and Miscellaneous Plastics Products
+[3100] Leather and Leather Products
+"[3200] Stone, Clay, Glass, and Concrete Products"
+[3300] Primary Metal Industries
+"[3400] Fabricated Metal Products, Except Machinery and Transportation Equipment"
+[3500] Industrial and Commercial Machinery and Computer Equipment
+[3511] Turbines and Turbine Generator Sets
+"[3519] Internal Combustion Engines, n.e.c."
+"[3600] Electronic and Other Electrical Equipment and Components, Except Computer Equipment"
+[3612] Transformers
+"[3612] Power, Distribution & Specialty Transformers"
+[3700] Transportation Equipment
+[3710] Motor Vehicles and Motor Vehicle Equipment
+[3724] Aircraft Engines and Engine Parts
+[3731] Ship Building and Repairing
+[3732] Boat Building and Repairing
+"[3800] Measuring, Analyzing, and Controlling Instruments; Photographic, Medical and Optical Goods; Watches and Clocks"
+"[3873] Watches, Clocks, Clockwork Operated Devices and Parts"
+[3900] Miscellaneous Manufacturing Industries
+[4000] Railroad Transportation
+[4100] Local and Suburban Transit and Interurban Highway Passenger Transportation
+[4200] Motor Freight Transportation and Warehousing
+[4225] General Warehousing and Storage
+[4300] United States Postal Service
+[4400] Water Transportation
+[4412] Deep Sea Foreign Transportation of Freight
+[4424] Deep Sea Domestic Transportation of Freight
+[4482] Ferries
+[4491] Marine Cargo Handling
+[4492] Towing and Tugboat Service
+[4493] Marinas
+[4500] Transportation By Air
+"[4581] Airports, Flying Fields and Airport Terminal Services"
+"[4600] Pipelines, Except Natural Gas"
+[4612] Crude Petroleum Pipelines
+[4613] Refined Petroleum Pipelines
+"[4619] Pipelines, n.e.c."
+[4700] Transportation Services
+[4800] Communications
+"[4900] Electric, Gas, and Sanitary Services"
+[4911] Electric Services
+[4923] Natural Gas Transmission and Distribution
+"[4925] Mixed, Manufactured, or Liquefied Petroleum Gas Production"
+[4931] Electric & Other Services Combined
+"[4939] Combination Utilities, n.e.c."
+[5000] Wholesale Trade-durable Goods
+[5100] Wholesale Trade-non-durable Goods
+"[5200] Building Materials, Hardware, Garden Supply, and Mobile Home Dealers"
+[5300] General Merchandise Stores
+[5311] Department stores
+[5331] Variety stores
+[5400] Food Stores
+[5411] Grocery Stores
+[5500] Automotive Dealers and Gasoline Service Stations
+[5600] Apparel and Accessory Stores
+[5611] Men's & Boy's Clothing Stores
+[5621] Women's Clothing Stores
+[5641] Children's & Infant's Wear Stores
+[5661] Shoes Stores
+"[5700] Home Furniture, Furnishings and Equipment Stores"
+[5712] Furniture Stores
+[5719] Home Furnishing Stores
+[5722] Household Appliance Stores
+"[5731] Radio, Television and Electronics Stores"
+[5734] Computer and Software Stores
+[5735] Record and Prerecorded Tape Stores
+[5800] Eating and Drinking Places
+[5812] Eating Places / Restaurants
+[5900] Miscellaneous Retail
+[5912] Drug & Proprietary Stores
+[5921] Liquor Stores
+[5941] Sporting Goods and Bicycle Stores
+[5942] Book Stores
+[5944] Jewellery Stores
+"[5945] Hobby, Toy & Game Shops"
+"[5947] Gift, Novelty, and Souvenir Shops"
+[5948] Luggage and Leather Goods Stores
+[5961] Catalog and Mail-Order Houses
+[5995] Optical Goods Stores
+"[5999] Miscellaneous Retail Stores, Nec"
+[6000] Depository Institutions
+[6100] Non-depository Credit Institutions
+"[6200] Security and Commodity Brokers, Dealers, Exchanges, and Services"
+[6300] Insurance Carriers
+"[6411] Insurance Agents, Brokers, and Service"
+[6500] Real Estate
+[6700] Holding and Other Investment Offices
+"[7000] Hotels, Rooming Houses, Camps, and Other Lodging Places"
+[7200] Personal Services
+[7300] Business Services
+[7374] Computer Processing and Data Preparation and Processing Services
+"[7500] Automotive Repair, Services, and Parking"
+[7600] Miscellaneous Repair Services
+[7800] Motion Pictures
+[7900] Amusement and Recreation Services
+[8000] Health Services
+[8010] Offices and Clinics of Doctors of Medicine
+[8011] Offices and Clinics of Doctors of Medicine
+[8050] Nursing and Personal Care Facilities
+[8060] Hospitals
+[8080] Home Health Care Services
+[8082] Home Health Care Services
+"[8090] Miscellaneous Health and Allied Services, not elsewhere classified"
+[8100] Legal Services
+[8200] Educational Services
+[8300] Social Services
+"[8400] Museums, Art Galleries, and Botanical and Zoological Gardens"
+[8600] Membership Organizations
+"[8700] Engineering, Accounting, Research, Management, and Related Services"
+"[8710] Engineering, Architectural and Surveying"
+[8711] Engineering Services
+[8712] Architectural Services
+[8800] Private Households
+[8900] Miscellaneous Services
+"[9100] Executive, Legislative, and General Government, Except Finance"
+"[9200] Justice, Public Order, and Safety"
+"[9300] Public Finance, Taxation, and Monetary Policy"
+[9400] Administration Of Human Resource Programs
+[9500] Administration Of Environmental Quality and Housing Programs
+[9600] Administration Of Economic Programs
+[9700] National Security and International Affairs
+[9900] Nonclassifiable Establishments
